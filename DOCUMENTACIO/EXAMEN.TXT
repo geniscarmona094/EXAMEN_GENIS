@@ -53,5 +53,9 @@ git merge NOVABRANCA
 git commit -m "Versio 7"
 git push -u origin master
 git add "DOCUMENTACIO"
-git commit -m "Versio 6"
+git commit -m "Versio 7"
+git push -u origin master
+8.-------------------------------------------------------------------------------------------------------------------------
+git add "DOCUMENTACIO"
+git commit -m "Versio 8"
 git push -u origin master
