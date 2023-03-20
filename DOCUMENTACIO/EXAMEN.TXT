@@ -44,3 +44,14 @@ git pull origin NOVABRANCA
 git add "DOCUMENTACIO"
 git commit -m "Versio 6"
 git push -u origin NOVABRANCA
+7.-------------------------------------------------------------------------------------------------------------------------
+git checkout master
+git merge FORMULARIS
+git commit -m "Versio 7"
+git push -u origin master
+git merge NOVABRANCA
+git commit -m "Versio 7"
+git push -u origin master
+git add "DOCUMENTACIO"
+git commit -m "Versio 6"
+git push -u origin master
