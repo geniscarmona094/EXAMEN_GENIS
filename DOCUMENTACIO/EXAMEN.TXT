@@ -1,7 +1,9 @@
 1.-------------------------------------------------------------------------------------------------------------------------
-cd examenm5uf2/
 git init
 git add .
 git commit -m "Versio 1"
 git remote add origin https://github.com/geniscarmona094/EXAMEN_GENIS.git
+git push -u origin master
+git add "DOCUMENTACIO"
+git commit -m "Versio 1"
 git push -u origin master
