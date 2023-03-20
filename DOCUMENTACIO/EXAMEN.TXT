@@ -28,3 +28,12 @@ git push -u origin master
 git add "DOCUMENTACIO"
 git commit -m "Versio 4"
 git push -u origin master
+5.-------------------------------------------------------------------------------------------------------------------------
+git branch FORMULARIS
+git checkout FORMULARIS
+git add "examenGIT"
+git commit -m "Versio 5"
+git push -u origin FORMULARIS
+git add "DOCUMENTACIO"
+git commit -m "Versio 5"
+git push -u origin FORMULARIS
