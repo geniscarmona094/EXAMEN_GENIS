@@ -38,21 +38,23 @@
             this.btBlau.ForeColor = System.Drawing.Color.White;
             this.btBlau.Location = new System.Drawing.Point(121, 125);
             this.btBlau.Name = "btBlau";
-            this.btBlau.Size = new System.Drawing.Size(75, 23);
+            this.btBlau.Size = new System.Drawing.Size(143, 63);
             this.btBlau.TabIndex = 0;
             this.btBlau.Text = "BLAU";
             this.btBlau.UseVisualStyleBackColor = false;
+            this.btBlau.Click += new System.EventHandler(this.btBlau_Click);
             // 
             // btVerd
             // 
             this.btVerd.BackColor = System.Drawing.Color.Green;
             this.btVerd.ForeColor = System.Drawing.Color.White;
-            this.btVerd.Location = new System.Drawing.Point(488, 124);
+            this.btVerd.Location = new System.Drawing.Point(431, 124);
             this.btVerd.Name = "btVerd";
-            this.btVerd.Size = new System.Drawing.Size(75, 23);
+            this.btVerd.Size = new System.Drawing.Size(132, 64);
             this.btVerd.TabIndex = 1;
             this.btVerd.Text = "VERD";
             this.btVerd.UseVisualStyleBackColor = false;
+            this.btVerd.Click += new System.EventHandler(this.btVerd_Click);
             // 
             // FrmMain
             // 

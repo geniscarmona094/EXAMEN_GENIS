@@ -16,5 +16,17 @@ namespace examenGIT
         {
             InitializeComponent();
         }
+
+        private void btBlau_Click(object sender, EventArgs e)
+        {
+            FrmBlau frm = new FrmBlau();
+            frm.Show();
+        }
+
+        private void btVerd_Click(object sender, EventArgs e)
+        {
+            FrmVerd frm = new FrmVerd();
+            frm.Show();
+        }
     }
 }
