@@ -37,3 +37,10 @@ git push -u origin FORMULARIS
 git add "DOCUMENTACIO"
 git commit -m "Versio 5"
 git push -u origin FORMULARIS
+6.-------------------------------------------------------------------------------------------------------------------------
+git branch NOVABRANCA
+git checkout NOVABRANCA
+git pull origin NOVABRANCA
+git add "DOCUMENTACIO"
+git commit -m "Versio 6"
+git push -u origin NOVABRANCA
