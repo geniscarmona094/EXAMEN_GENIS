@@ -43,4 +43,4 @@ git checkout NOVABRANCA
 git pull origin NOVABRANCA
 git add "DOCUMENTACIO"
 git commit -m "Versio 6"
-git push -u origin FORMULARIS
+git push -u origin NOVABRANCA
